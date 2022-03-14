@@ -1,0 +1,14 @@
+C:\Users\garczynskim\source\repos\TDD\TDD\bin\Debug\netcoreapp3.1\TDD.exe
+C:\Users\garczynskim\source\repos\TDD\TDD\bin\Debug\netcoreapp3.1\TDD.deps.json
+C:\Users\garczynskim\source\repos\TDD\TDD\bin\Debug\netcoreapp3.1\TDD.runtimeconfig.json
+C:\Users\garczynskim\source\repos\TDD\TDD\bin\Debug\netcoreapp3.1\TDD.runtimeconfig.dev.json
+C:\Users\garczynskim\source\repos\TDD\TDD\bin\Debug\netcoreapp3.1\TDD.dll
+C:\Users\garczynskim\source\repos\TDD\TDD\bin\Debug\netcoreapp3.1\TDD.pdb
+C:\Users\garczynskim\source\repos\TDD\TDD\obj\Debug\netcoreapp3.1\TDD.csproj.AssemblyReference.cache
+C:\Users\garczynskim\source\repos\TDD\TDD\obj\Debug\netcoreapp3.1\TDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garczynskim\source\repos\TDD\TDD\obj\Debug\netcoreapp3.1\TDD.AssemblyInfoInputs.cache
+C:\Users\garczynskim\source\repos\TDD\TDD\obj\Debug\netcoreapp3.1\TDD.AssemblyInfo.cs
+C:\Users\garczynskim\source\repos\TDD\TDD\obj\Debug\netcoreapp3.1\TDD.csproj.CoreCompileInputs.cache
+C:\Users\garczynskim\source\repos\TDD\TDD\obj\Debug\netcoreapp3.1\TDD.dll
+C:\Users\garczynskim\source\repos\TDD\TDD\obj\Debug\netcoreapp3.1\TDD.pdb
+C:\Users\garczynskim\source\repos\TDD\TDD\obj\Debug\netcoreapp3.1\TDD.genruntimeconfig.cache
