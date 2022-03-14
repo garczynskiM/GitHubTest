@@ -1,0 +1,17 @@
+h:\Windows7\Desktop\Repo\TDD\TestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+h:\Windows7\Desktop\Repo\TDD\TestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+h:\Windows7\Desktop\Repo\TDD\TestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+h:\Windows7\Desktop\Repo\TDD\TestProject1\bin\Debug\netcoreapp2.1\TestProject1.deps.json
+h:\Windows7\Desktop\Repo\TDD\TestProject1\bin\Debug\netcoreapp2.1\TestProject1.runtimeconfig.json
+h:\Windows7\Desktop\Repo\TDD\TestProject1\bin\Debug\netcoreapp2.1\TestProject1.runtimeconfig.dev.json
+h:\Windows7\Desktop\Repo\TDD\TestProject1\bin\Debug\netcoreapp2.1\TestProject1.dll
+h:\Windows7\Desktop\Repo\TDD\TestProject1\bin\Debug\netcoreapp2.1\TestProject1.pdb
+h:\Windows7\Desktop\Repo\TDD\TestProject1\bin\Debug\netcoreapp2.1\TDD.dll
+h:\Windows7\Desktop\Repo\TDD\TestProject1\bin\Debug\netcoreapp2.1\TDD.pdb
+h:\Windows7\Desktop\Repo\TDD\TestProject1\obj\Debug\netcoreapp2.1\TestProject1.csprojAssemblyReference.cache
+h:\Windows7\Desktop\Repo\TDD\TestProject1\obj\Debug\netcoreapp2.1\TestProject1.csproj.CoreCompileInputs.cache
+h:\Windows7\Desktop\Repo\TDD\TestProject1\obj\Debug\netcoreapp2.1\TestProject1.AssemblyInfoInputs.cache
+h:\Windows7\Desktop\Repo\TDD\TestProject1\obj\Debug\netcoreapp2.1\TestProject1.AssemblyInfo.cs
+h:\Windows7\Desktop\Repo\TDD\TestProject1\obj\Debug\netcoreapp2.1\TestProject1.csproj.CopyComplete
+h:\Windows7\Desktop\Repo\TDD\TestProject1\obj\Debug\netcoreapp2.1\TestProject1.dll
+h:\Windows7\Desktop\Repo\TDD\TestProject1\obj\Debug\netcoreapp2.1\TestProject1.pdb

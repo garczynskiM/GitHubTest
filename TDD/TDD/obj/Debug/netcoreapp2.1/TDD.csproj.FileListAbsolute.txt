@@ -1,0 +1,11 @@
+h:\Windows7\Desktop\Repo\TDD\TDD\bin\Debug\netcoreapp2.1\TDD.deps.json
+h:\Windows7\Desktop\Repo\TDD\TDD\bin\Debug\netcoreapp2.1\TDD.runtimeconfig.json
+h:\Windows7\Desktop\Repo\TDD\TDD\bin\Debug\netcoreapp2.1\TDD.runtimeconfig.dev.json
+h:\Windows7\Desktop\Repo\TDD\TDD\bin\Debug\netcoreapp2.1\TDD.dll
+h:\Windows7\Desktop\Repo\TDD\TDD\bin\Debug\netcoreapp2.1\TDD.pdb
+h:\Windows7\Desktop\Repo\TDD\TDD\obj\Debug\netcoreapp2.1\TDD.csprojAssemblyReference.cache
+h:\Windows7\Desktop\Repo\TDD\TDD\obj\Debug\netcoreapp2.1\TDD.csproj.CoreCompileInputs.cache
+h:\Windows7\Desktop\Repo\TDD\TDD\obj\Debug\netcoreapp2.1\TDD.AssemblyInfoInputs.cache
+h:\Windows7\Desktop\Repo\TDD\TDD\obj\Debug\netcoreapp2.1\TDD.AssemblyInfo.cs
+h:\Windows7\Desktop\Repo\TDD\TDD\obj\Debug\netcoreapp2.1\TDD.dll
+h:\Windows7\Desktop\Repo\TDD\TDD\obj\Debug\netcoreapp2.1\TDD.pdb
